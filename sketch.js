@@ -78,7 +78,7 @@ function draw() {
   }else{
     feed.show();
     addFood.show();
-    dog.addImage()
+    dog.addImage(dogImg1)
   }
 
   fill("black");
